@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (CRITICAL: Never upload this)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS Files
+.DS_Store
